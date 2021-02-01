@@ -8,3 +8,5 @@ One big problem he has is he managing his entire ingredient inventory process in
 ## Problemo
 
 So what's the deal?
+
+Every ingredient vendor has a different schedule, price, communication channel, and technical sophistication when it comes to ordering.
