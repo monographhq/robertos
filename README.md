@@ -1,6 +1,6 @@
 # Roberto il Pizzaiolo 🍕
 
-Our fearless CEO Roberto has been passionately running 3 pizzeria's in Northern California using only the freshest of ingredients. A crowd favorite, he only serves a Margherita style pizza where ingredients are critical to the quality.
+Our fearless CEO Roberto has been passionately running 3 pizzeria's in Northern California using only the freshest of ingredients. A crowd favorite, he only serves a classic Margherita pizza where ingredients are critical to the quality.
 
 ## Problemo
 
