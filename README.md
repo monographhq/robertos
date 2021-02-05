@@ -15,7 +15,16 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 | Ingredient  | Vendor | Source | Vendor Updates |
 | ------------- | ------------- | ------ | ------ | 
 | Yeast  | Prop Labs Kolsch Beer Yeast | API | Manual Daily Updates |
-| Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery |
+| Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery Mass Updates |
 | Tomatoes | San Marzano Whole Tomatoes | Grocer Distribution API | Live Updates |
 | Mozzarella | Sonoma Farms | Text | Sporadic Updates |
 | Basil | Oakland Farmer's Market | Weekly Email | Seasonal Updates | 
+
+
+## Design Take-home Test
+Design a one-page screen showing Roberto's daily dashboard for him to understand a few important updates:
+
+1. In some type of schedule view, what's the next delivery he should be expecting? And what's the past deliveries he's received?
+2. What's the latest for each individual vendor? Does he need to follow up with anyone to get updated information?
+3. What's the current inventory? Can we use the existing excel workflow and bring it online to inform our ingredient forecasting?
+
