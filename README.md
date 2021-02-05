@@ -12,7 +12,7 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 
 
 ### Ingredient Delivery
-| Ingredient  | Vendor | Source | Vendor Updates |
+| Ingredient  | Vendor | Update / Order Source | Update Frequency |
 | ------------- | ------------- | ------ | ------ | 
 | Yeast  | Prop Labs Kolsch Beer Yeast | API | Manual Daily Updates |
 | Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery Mass Updates |
@@ -37,4 +37,4 @@ Add one little special feature that you personally think is important in develop
 ## Backend Ruby take-home test
 Design and build a Ruby API (Sinatra like syntax would work) that resolves the different vendor pecularities.
 
-Create a status class, vendor class, and update class with the initial edge cases baked into each class. 
+Suggestion: create a status class, vendor class, and inventory class with the initial edge cases baked into each class. 
