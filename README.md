@@ -32,4 +32,4 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be pseudo code or return mock data). Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
 
 ## Backend Ruby take-home test
-
+Design and build a Ruby API (Sinatra like syntax would work) that resolves the different vendor pecularities. Create a status class, vendor class, and update class with the initial edge cases baked into each class. 
