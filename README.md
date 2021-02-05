@@ -21,15 +21,15 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 | Basil | Oakland Farmer's Market | Weekly Email | Seasonal Updates | 
 
 
-## Design Take-home Test
+## Design take-home test
 Design a one-page screen in Figma showing Roberto's daily dashboard for him to understand a few important updates. Please share messy, design process Figma files so we get a sense of how you think. The sloppier the better.
 
 1. In some type of schedule view, what's the next delivery he should be expecting? And what's the past deliveries he's received?
 2. What's the latest for each individual vendor? Does he need to follow up with anyone to get updated information?
 3. What's the current inventory? Can we use the existing excel workflow and bring it online to inform our ingredient forecasting?
 
-## React + Backend Ruby
+## React + backend Ruby take-home test
 Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be pseudo code or return mock data). Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
 
-## Backedn Ruby
+## Backend Ruby take-home test
 
