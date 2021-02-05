@@ -11,3 +11,11 @@ Every ingredient vendor has a different schedule, price, communication channel, 
 To make matters even more fun, Roberto wants to expand and open 5 more pizzerias this year—his ordering problem is going to increase exponentially!
 
 
+Ingredient Delivery
+| Ingredient  | Vendor |
+| ------------- | ------------- |
+| Yeast  | Prop Labs Kolsch Beer Yeast |
+| Olive Oil | Crudo Ogliarolo |
+| Tomatoes | San Marzano Whole Tomatoes |
+| Mozzarella | Sonoma Farms |
+| Basil | Oakland Farmer's Market |
