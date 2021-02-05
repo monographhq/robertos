@@ -12,7 +12,7 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 
 
 ### Ingredient Delivery
-| Ingredient  | Vendor | Source | Update Source |
+| Ingredient  | Vendor | Source | Vendor Updates |
 | ------------- | ------------- | ------ | ------ | 
 | Yeast  | Prop Labs Kolsch Beer Yeast | API | Manual Daily Updates |
 | Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery |
