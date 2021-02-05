@@ -16,6 +16,6 @@ To make matters even more fun, Roberto wants to expand and open 5 more pizzerias
 | ------------- | ------------- | ------ | ------ | 
 | Yeast  | Prop Labs Kolsch Beer Yeast | API | Manual Daily Updates |
 | Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery |
-| Tomatoes | San Marzano Whole Tomatoes | Instacart API | Live Updates |
+| Tomatoes | San Marzano Whole Tomatoes | Grocer Distribution API | Live Updates |
 | Mozzarella | Sonoma Farms | Text | Sporadic Updates |
-| Basil | Oakland Farmer's Market | Growing Season Updates | 
+| Basil | Oakland Farmer's Market | Weekly Email | Growing Season Updates | 
