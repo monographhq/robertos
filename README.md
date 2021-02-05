@@ -27,9 +27,14 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 1. In some type of schedule view, what's the next delivery he should be expecting? And what's the past deliveries he's received?
 2. What's the latest for each individual vendor? Does he need to follow up with anyone to get updated information?
 3. What's the current inventory? Can we use the existing excel workflow and bring it online to inform our ingredient forecasting?
+4. Can you render the data in a chart or visual format?
 
 ## React + backend Ruby take-home test
-Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be pseudo code or return mock data). Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
+Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be pseudo code or return mock data).
+
+Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
 
 ## Backend Ruby take-home test
-Design and build a Ruby API (Sinatra like syntax would work) that resolves the different vendor pecularities. Create a status class, vendor class, and update class with the initial edge cases baked into each class. 
+Design and build a Ruby API (Sinatra like syntax would work) that resolves the different vendor pecularities.
+
+Create a status class, vendor class, and update class with the initial edge cases baked into each class. 
