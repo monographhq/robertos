@@ -18,4 +18,4 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 | Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery |
 | Tomatoes | San Marzano Whole Tomatoes | Grocer Distribution API | Live Updates |
 | Mozzarella | Sonoma Farms | Text | Sporadic Updates |
-| Basil | Oakland Farmer's Market | Weekly Email | Growing Season Updates | 
+| Basil | Oakland Farmer's Market | Weekly Email | Seasonal Updates | 
