@@ -15,7 +15,7 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 | Ingredient  | Vendor | Update / Order Source | Update Frequency |
 | ------------- | ------------- | ------ | ------ | 
 | Yeast  | Prop Labs Kolsch Beer Yeast | REST API | Manual Daily Updates |
-| Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery Mass Updates |
+| Olive Oil | Crudo Ogliarolo | Phone Call (Twilio-like API) | International Freight Delivery Mass Updates |
 | Tomatoes | San Marzano Whole Tomatoes | Webhook Push | Live Updates |
 | Mozzarella | Sonoma Farms | Text (Twilio-like API) | Sporadic Updates |
 | Basil | Oakland Farmer's Market | Weekly Email | Seasonal Updates | 
@@ -40,3 +40,5 @@ Design and build an `InventoryJob` (and include any other Ruby classes that you 
 We're big fans of Sandi Metz and her [SOLID Object-Oriented design](https://sandimetz.com/blog/2009/03/21/solid-design-principles) but feel free to implement in the style you're most comfortable with.
 
 Please write a test to handle your primary methods in each class.
+
+For the API calls, you can assume the job is already authenticated, and you're just calling a method to get data back in json.
