@@ -14,10 +14,10 @@ To make matters even more fun, Roberto wants to expand and **open 5 more pizzeri
 ### Ingredient Delivery
 | Ingredient  | Vendor | Update / Order Source | Update Frequency |
 | ------------- | ------------- | ------ | ------ | 
-| Yeast  | Prop Labs Kolsch Beer Yeast | API | Manual Daily Updates |
+| Yeast  | Prop Labs Kolsch Beer Yeast | REST API | Manual Daily Updates |
 | Olive Oil | Crudo Ogliarolo | Phone Call | International Freight Delivery Mass Updates |
-| Tomatoes | San Marzano Whole Tomatoes | Grocer Distribution API | Live Updates |
-| Mozzarella | Sonoma Farms | Text | Sporadic Updates |
+| Tomatoes | San Marzano Whole Tomatoes | Webhook Push | Live Updates |
+| Mozzarella | Sonoma Farms | Text (Twilio-like API) | Sporadic Updates |
 | Basil | Oakland Farmer's Market | Weekly Email | Seasonal Updates | 
 
 
@@ -35,6 +35,8 @@ Build a filterable, sortable table view in React using mock data that would call
 Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
 
 ## Backend Ruby take-home test
-Design and build a Ruby API (Sinatra like syntax would work) that resolves the different vendor pecularities.
+Design and build an `InventoryJob` (and include any other Ruby classes that you need) to fetch data from the different vendors, sources, and update frequencies. The job will run every hour to update our database (you don't need to handle the database, only create the job and whatever you need to fetch the data).
 
-Suggestion: create a status class, vendor class, and inventory class with the initial edge cases baked into each class. 
+We're big fans of Sandi Metz and her [SOLID Object-Oriented design](https://sandimetz.com/blog/2009/03/21/solid-design-principles) but feel free to implement in the style you're most comfortable with.
+
+Please write a test to handle your primary methods in each class.
