@@ -30,7 +30,7 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 4. Can you render the data in a chart or visual format?
 
 ## React + backend Ruby take-home test
-Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be simple Sinatra, pseudo code, or return mock data).
+Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be a simple Sinatra file, pseudo code, or return mock data).
 
 Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
 
