@@ -32,7 +32,11 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 ## React + backend Ruby take-home test
 Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be a simple Sinatra file, pseudo code, or return mock data).
 
-Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc). 
+Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc).
+
+Our app is written in Next.js but feel free to use CreateReactApp or even a simple HTML file with the React CDN.
+
+Once you're finished please invite me to the repo and send a quick email. Github username: `moeamaya`
 
 ## Backend Ruby take-home test
 Design and build an `InventoryJob` (and include any other Ruby classes that you need) to fetch data from the different vendors, sources, and update frequencies. The job will run every hour to update our database (you don't need to handle the database, only create the job and whatever you need to fetch the data).
@@ -42,3 +46,5 @@ We're big fans of Sandi Metz and her [SOLID Object-Oriented design](https://sand
 Please write a test to handle your primary methods in each class.
 
 For the API calls, you can assume the job is already authenticated, and you're just calling a get method to return data back in json (`TextAPI.get_texts`, etc).
+
+Once you're finished please invite me to the repo and send a quick email. Github username: `moeamaya`
