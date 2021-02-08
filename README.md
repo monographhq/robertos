@@ -45,6 +45,6 @@ We're big fans of Sandi Metz and her [SOLID Object-Oriented design](https://sand
 
 Please write a test to handle your primary methods in each class.
 
-For the API calls, you can assume the job is already authenticated, and you're just calling a get method to return data back in json (`TextAPI.get_texts`, etc).
+For the external API calls, you can assume the job is already authenticated, and you're just calling a get method to return data back in json (`TextAPI.get_texts`, etc).
 
 Once you're finished please invite me to the repo and send a quick email. Github username: `moeamaya`
