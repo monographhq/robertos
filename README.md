@@ -29,12 +29,12 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 3. What's the current inventory? Can we use the existing excel workflow and bring it online to inform our ingredient forecasting?
 4. Can you render the data in a chart or visual format?
 
-## React + backend Ruby take-home test
+## Full stack take-home test
 Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be a simple Sinatra file, pseudo code, or return mock data).
 
 Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc).
 
-Our app is written in Next.js but feel free to use CreateReactApp or even a simple HTML file with the React CDN.
+Our app is written in Next.js but feel free to use Create React App or Code Sandbox.
 
 Once you're finished please invite me to the repo and send a quick email. Github username: `moeamaya`
 
