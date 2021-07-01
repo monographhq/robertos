@@ -29,6 +29,13 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 3. What's the current inventory? Can we use the existing excel workflow and bring it online to inform our ingredient forecasting?
 4. Can you render the data in a chart or visual format?
 
+## Frontend take-home test
+Build a sortable, nestable, groupable table view in React using the GraphQL API. The image below is for reference, please feel free to take creative liberties with the implementation on both design and product. Figma file for additional reference.
+
+Add one little special feature that you personally think is important in developing features (examples: updated design, animations, performance, graphql refactor, testing, etc).
+
+Use [this Next.js repo](https://github.com/monographhq/robertos-next) as your starting point. 
+
 ## Full stack take-home test
 Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be a simple Sinatra file, pseudo code, or return mock data).
 
