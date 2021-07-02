@@ -30,7 +30,7 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 4. Can you render the data in a chart or visual format?
 
 ## Frontend take-home test
-Build a sortable, nestable, groupable table view in React using the GraphQL API. The image below is for reference, please feel free to take creative liberties with the implementation on both design and product. Figma file for additional reference.
+Build a sortable, nestable, groupable table view in React using the GraphQL API. Please feel free to take creative liberties with the implementation on both design and product.
 
 Add one little special feature that you personally think is important in developing features (examples: updated design, animations, performance, graphql refactor, testing, etc).
 
