@@ -43,7 +43,7 @@ Add one little special feature that you personally think is important in develop
 
 Our app is written in Next.js but feel free to use Create React App or Code Sandbox.
 
-Once you're finished please invite me to the repo and send a quick email. Github username: `moeamaya`
+Once you're finished please send an email to the hiring manager and recruiter you've been working with. 
 
 ## Backend Ruby take-home test
 Design and build an `InventoryJob` (and include any other Ruby classes that you need) to fetch data from the different vendors, sources, and update frequencies. The job will run every hour to update our database (you don't need to handle the database, only create the job and whatever you need to fetch the data).
