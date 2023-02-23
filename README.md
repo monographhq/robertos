@@ -10,18 +10,18 @@ Every ingredient vendor has a different schedule, price, communication channel, 
 
 To make matters even more fun, Roberto wants to expand and **open 5 more pizzerias this year**—his ordering problem is going to increase exponentially!
 
-
 ### Ingredient Delivery
-| Ingredient  | Vendor | Update / Order Source | Update Frequency |
-| ------------- | ------------- | ------ | ------ | 
-| Yeast  | Prop Labs Kolsch Beer Yeast | REST API | Manual Daily Updates |
-| Olive Oil | Crudo Ogliarolo | Phone Call (Twilio-like API) | International Freight Delivery Mass Updates |
-| Tomatoes | San Marzano Whole Tomatoes | Webhook Push | Live Updates |
-| Mozzarella | Sonoma Farms | Text (Twilio-like API) | Sporadic Updates |
-| Basil | Oakland Farmer's Market | Weekly Email | Seasonal Updates | 
 
+| Ingredient | Vendor                      | Update / Order Source        | Update Frequency                            |
+| ---------- | --------------------------- | ---------------------------- | ------------------------------------------- |
+| Yeast      | Prop Labs Kolsch Beer Yeast | REST API                     | Manual Daily Updates                        |
+| Olive Oil  | Crudo Ogliarolo             | Phone Call (Twilio-like API) | International Freight Delivery Mass Updates |
+| Tomatoes   | San Marzano Whole Tomatoes  | Webhook Push                 | Live Updates                                |
+| Mozzarella | Sonoma Farms                | Text (Twilio-like API)       | Sporadic Updates                            |
+| Basil      | Oakland Farmer's Market     | Weekly Email                 | Seasonal Updates                            |
 
 ## Design take-home test
+
 Design a one-page screen in Figma showing Roberto's daily dashboard for him to understand a few important updates. Please share messy, design process Figma files so we get a sense of how you think. The sloppier the better.
 
 1. In some type of schedule view, what's the next delivery he should be expecting? And what's the past deliveries he's received?
@@ -30,22 +30,29 @@ Design a one-page screen in Figma showing Roberto's daily dashboard for him to u
 4. Can you render the data in a chart or visual format?
 
 ## Frontend take-home test
+
 Build a sortable, nestable, groupable table view in React using the GraphQL API. Please feel free to take creative liberties with the implementation on both design and product.
 
 Add one little special feature that you personally think is important in developing features (examples: updated design, animations, performance, graphql refactor, testing, etc).
 
-Use [this Next.js repo](https://github.com/monographhq/robertos-next) as your starting point. 
+Use [this Next.js repo](https://github.com/monographhq/robertos-next) as your starting point.
+
+Please timebox this to 3 hours. In your README, please add an additional section with a quick recap of lessons learned, what you wish you did differently, what you wish you had spend more/less time on, and what your next area of improvment would be.
 
 ## Full stack take-home test
+
 Build a filterable, sortable table view in React using mock data that would call to a simple Ruby API (Ruby API can be a simple Sinatra file, pseudo code, or return mock data).
 
 Add one little special feature that you personally think is important in developing features (examples: animations, security, graphql, testing, service object, etc).
 
 Our app is written in Next.js but feel free to use Create React App or Code Sandbox.
 
-Once you're finished please send an email to the hiring manager and recruiter you've been working with. 
+Please timebox this to 3 hours. In your README, please add an additional section with a quick recap of lessons learned, what you wish you did differently, what you wish you had spend more/less time on, and what your next area of improvment would be.
+
+Once you're finished please send an email to the hiring manager and recruiter you've been working with.
 
 ## Backend Ruby take-home test
+
 Design and build an `InventoryJob` (and include any other Ruby classes that you need) to fetch data from the different vendors, sources, and update frequencies. The job will run every hour to update our database (you don't need to handle the database, only create the job and whatever you need to fetch the data).
 
 We're big fans of Sandi Metz and her [SOLID Object-Oriented design](https://sandimetz.com/blog/2009/03/21/solid-design-principles) but feel free to implement in the style you're most comfortable with.
@@ -54,4 +61,6 @@ Please write a test to handle your primary methods in each class.
 
 For the external API calls, you can assume the job is already authenticated, and you're just calling a get method to return data back in json (`TextAPI.get_texts`, etc).
 
-Once you're finished please invite me to the repo and send a quick email. Github username: `moeamaya`
+Please timebox this to 3 hours. In your README, please add an additional section with a quick recap of lessons learned, what you wish you did differently, what you wish you had spend more/less time on, and what your next area of improvment would be.
+
+Once you're finished please send an email to the hiring manager and recruiter you've been working with.
